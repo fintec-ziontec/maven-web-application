@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>app2 nexus repository </name>
-	      <url>http://localhost:8081/repository/app2//</url>
+	      <url>http://localhost:8081/repository/app2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
